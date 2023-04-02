@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "online library",
-            "imgUrl": "https://ibb.co/w6C2KCQ",
+            "imgUrl": "https://i.postimg.cc/5t862tRm/Screenshot-2023-04-02-at-18-11-22.png",
             "description": "A web app for that enables a user to purchase, donate and read books that are avillable on the website.",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
