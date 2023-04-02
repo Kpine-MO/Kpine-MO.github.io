@@ -2,9 +2,9 @@
        "topProjects": [
         {
             "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "online library",
+            "imgUrl": "https://ibb.co/w6C2KCQ",
+            "description": "A web app for that enables a user to purchase, donate and read books that are avillable on the website.",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
