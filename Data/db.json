@@ -12,7 +12,7 @@
          {
             "id": 2,
             "name": "progect one",
-            "imgUrl": "https://thumbs2.imgbox.com/6c/fd/sZX2imVA_t.png",
+            "imgUrl": "https://www.imagebam.com/view/MEJX3TV",
             "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
