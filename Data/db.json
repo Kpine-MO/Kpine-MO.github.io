@@ -1,160 +1,98 @@
 {
        "topProjects": [
-        {
+       {
             "id": 1,
-            "name": "online library",
-            "imgUrl": "https://i.postimg.cc/5t862tRm/Screenshot-2023-04-02-at-18-11-22.png",
-            "description": "A web app for that enables a user to purchase, donate and read books that are avillable on the website.",
+            "name": "Sahara Desk",
+            "imgUrl": "https://i.postimg.cc/7PQvF5q7/Screenshot-2024-03-01-at-15-07-12.png",
+            "description": "A web application for asset management purposes",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
+            "technologies": "React js front-end application with custom css and json server",
+            "link": "https://saharadeskdemo.azurewebsites.net"
         },
          {
             "id": 2,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/FzrncLHV/Screenshot-2023-04-02-at-21-49-47.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "Elewa Education",
+            "imgUrl": "https://i.postimg.cc/1XVWh5Kc/Screenshot-2024-03-01-at-15-46-11.png",
+            "description": "An application with the purpose of bringing education closer to the consumers",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
+            "link": "https://elewa.co.ke/home"
         },
          {
             "id": 3,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "Beyond The Savannah",
+            "imgUrl": "https://i.postimg.cc/hjXFvnrh/Screenshot-2024-03-01-at-15-28-12.png",
+            "description": "A it is a career coach website expected to provide premium packages and a job vacancies links. ",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
+            "link": "https://project002-ivory.vercel.app"
         }
     ],
     "React": [
         {
             "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "Sahara Desk",
+            "imgUrl": "https://i.postimg.cc/7PQvF5q7/Screenshot-2024-03-01-at-15-07-12.png",
+            "description": "A web application for asset management purposes",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
+            "technologies": "React js front-end application with custom css and json server",
+            "link": "https://saharadeskdemo.azurewebsites.net"
         },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+         {
+            "id": 2,
+            "name": "Elewa Education",
+            "imgUrl": "https://i.postimg.cc/1XVWh5Kc/Screenshot-2024-03-01-at-15-46-11.png",
+            "description": "An application with the purpose of bringing education closer to the consumers",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
+            "link": "https://elewa.co.ke/home"
         },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+         {
+            "id": 3,
+            "name": "Beyond The Savannah",
+            "imgUrl": "https://i.postimg.cc/hjXFvnrh/Screenshot-2024-03-01-at-15-28-12.png",
+            "description": "A it is a career coach website expected to provide premium packages and a job vacancies links. ",
             "github": "https://github.com/Kpine-MO/Online-Library",
             "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "name": "progect one",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "techUsed": "React.js  JSON.server",
-            "technologies": "React js front-end application with custom css and json server"
+            "link": "https://project002-ivory.vercel.app"
         }
     ],
     "allProjects": [
-        {
+       {
             "id": 1,
-            "title": "progect one",
-            "year": "2022",
-            "madeAt": "Moringa",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "Sahara Desk",
+            "imgUrl": "https://i.postimg.cc/7PQvF5q7/Screenshot-2024-03-01-at-15-07-12.png",
+            "description": "A web application for asset management purposes",
             "github": "https://github.com/Kpine-MO/Online-Library",
-            "buildWith": "react js",
-            "technologies": "React js front-end application with custom css and json server"
+            "techUsed": "React.js  JSON.server",
+            "technologies": "React js front-end application with custom css and json server",
+            "link": "https://saharadeskdemo.azurewebsites.net"
         },
-        {
+         {
             "id": 2,
-            "title": "progect one",
-            "year": "2022",
-            "madeAt": "Moringa School",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+            "name": "Elewa Education",
+            "imgUrl": "https://i.postimg.cc/1XVWh5Kc/Screenshot-2024-03-01-at-15-46-11.png",
+            "description": "An application with the purpose of bringing education closer to the consumers",
             "github": "https://github.com/Kpine-MO/Online-Library",
-            "buildWith": "react js",
+            "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
+            "link": "https://elewa.co.ke/home"
         },
-        {
-            "id": 1,
-            "title": "progect one",
-            "year": "2022",
-            "madeAt": "Moringa",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+         {
+            "id": 3,
+            "name": "Beyond The Savannah",
+            "imgUrl": "https://i.postimg.cc/hjXFvnrh/Screenshot-2024-03-01-at-15-28-12.png",
+            "description": "A it is a career coach website expected to provide premium packages and a job vacancies links. ",
             "github": "https://github.com/Kpine-MO/Online-Library",
-            "buildWith": "react js",
+            "techUsed": "React.js  JSON.server",
             "technologies": "React js front-end application with custom css and json server"
-        },
-        {
-            "id": 1,
-            "title": "progect one",
-            "year": "2022",
-            "madeAt": "Moringa",
-            "imgUrl": "https://i.postimg.cc/Qx0xJtHp/Screenshot-2023-02-16-at-14-34-17.png",
-            "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
-            "github": "https://github.com/Kpine-MO/Online-Library",
-            "buildWith": "react js",
-            "technologies": "React js front-end application with custom css and json server"
+            "link": "https://project002-ivory.vercel.app"
         }
     ]
 }
